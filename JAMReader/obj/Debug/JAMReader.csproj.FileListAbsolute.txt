@@ -1,0 +1,13 @@
+E:\hxb\Visual Studio Projects\JAMReader\JAMReader\bin\Debug\JAMReader.exe.config
+E:\hxb\Visual Studio Projects\JAMReader\JAMReader\obj\Debug\JAMReader.exe
+E:\hxb\Visual Studio Projects\JAMReader\JAMReader\obj\Debug\JAMReader.pdb
+E:\hxb\Visual Studio Projects\JAMReader\JAMReader\bin\Debug\JAMReader.exe
+E:\hxb\Visual Studio Projects\JAMReader\JAMReader\bin\Debug\JAMReader.pdb
+E:\hxb\Visual Studio Projects\JAMReader\JAMReader\obj\Debug\ResolveAssemblyReference.cache
+E:\hxb\Visual Studio Projects\JAMReader\JAMReader\obj\Debug\JAMReader.BWRichText.resources
+E:\hxb\Visual Studio Projects\JAMReader\JAMReader\obj\Debug\JAMReader.Form1.resources
+E:\hxb\Visual Studio Projects\JAMReader\JAMReader\obj\Debug\JAMReader.frmAbout.resources
+E:\hxb\Visual Studio Projects\JAMReader\JAMReader\obj\Debug\JAMReader.FrmFind.resources
+E:\hxb\Visual Studio Projects\JAMReader\JAMReader\obj\Debug\JAMReader.FrmRegister.resources
+E:\hxb\Visual Studio Projects\JAMReader\JAMReader\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\hxb\Visual Studio Projects\JAMReader\JAMReader\obj\Debug\GenerateResource-ResGen.write.1.tlog

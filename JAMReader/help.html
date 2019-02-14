@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title></title>
+		<meta name="GENERATOR" content="Microsoft Visual Studio .NET 7.1">
+		<meta name="ProgId" content="VisualStudio.HTML">
+		<meta name="Originator" content="Microsoft Visual Studio .NET 7.1">
+	</head>
+	<body>
+		<P align="center"><FONT face="宋体" size="6">Jam Reader使用说明</P>
+		<HR width="60%" SIZE="1">
+		</FONT>
+		<P><FONT face="宋体">&nbsp;&nbsp;&nbsp; 
+				cfido的信包快失传了，shukebbs的weizhong放出一个保存的信库．可是那些当年的看信软件已经都不能用啦．俺看大家想看也看不了，就和WZ一起分析了JAM库的格式，花了点功夫写一个读信器出来给大家用．</FONT></P>
+		<P><FONT face="宋体">&nbsp;&nbsp;&nbsp; 
+				JAMreader是用.net里的C#写的．使用的framework版本是1.1，1.0也可以用．framework是类似java runtime 
+				一样的虚拟机，.net的程序要靠这个来运行，你如果没有安装这个，请去M$的网站上下载安装．大小和JRE差不多大，24M．我在<A href="ftp://fido@ftp.cfido.com/haoxiaobo">ftp://fido@cfido.com/haoxiaobo</A>下也放了一个，如果你用windows 
+				server 2003，那就不用装了．如果你用"长角牛"，那就更不用管了．（你真在用长角牛？）</FONT></P>
+		<P><FONT face="宋体">&nbsp;&nbsp;&nbsp; 
+				使用方法很简单：第一次运行，或是你选择打开其他信库时，程序要问问你信库在哪里，先问的是信区的配置文件在哪里．以WZ的信库为例，BBS\GECHO里就是了．找找看程序要的那个文件．找到了没有？选中它．</FONT></P>
+		<P><FONT face="宋体">&nbsp;&nbsp;&nbsp; 
+				然后程序看看按当年的配置是否可以找到信包文件，要是没有，它就会告诉你，然后请你指给它看信包文件应该在哪里．它会给你一个例子文件，你找到这个文件就行了．EN~~~~, 
+				这个文件在BBS\JAM里．</FONT></P>
+		<P><FONT face="宋体">&nbsp;&nbsp;&nbsp; 指定了一次之后，信库就打开了．下次也自动打开．</FONT></P>
+		<P><FONT face="宋体">&nbsp;&nbsp;&nbsp; 
+				如果你第一次指错了，程序在哪里乱转也看不懂你指给他的文件，于是就再也打不开了，因为每次程序都自动会在那里乱转．这时也有办法．你终止程序，打开注册表，不好意思，往您的注册表里写了点东西，就在 
+				"HKEY_CURRENT_USER\Software\HaoXiaoBo\JamReader\版本号" 
+				里．你把这个子键删了再启动程序，程序又会像第一次运行那样问你信库位置．</FONT></P>
+		<P><FONT face="宋体">&nbsp;&nbsp;&nbsp;为了方便你下载.net framerwork, 
+				请从下面这些链接下载．对于有些windows，可能要安装另外两个组件．安装完成之后，你就可以使用任何.net程序了．</FONT></P>
+		<P><FONT face="宋体">.net framework 1.1<BR>
+				<A href="ftp://fido@cfido.com/haoxiaobo/dotnetfx1.1.exe">ftp://fido@cfido.com/haoxiaobo/dotnetfx1.1.exe</A></FONT></P>
+		<P><FONT face="宋体">.net framework Languege Pack<BR>
+				<A href="ftp://fido@cfido.com/haoxiaobo/langpack.exe">ftp://fido@cfido.com/haoxiaobo/langpack.exe</A></FONT></P>
+		<P><FONT face="宋体">M$ 数据访问组件 Ver 2.7<BR>
+				<A href="ftp://fido@cfido.com/haoxiaobo/mdac_typ2.7.exe">ftp://fido@cfido.com/haoxiaobo/mdac_typ2.7.exe</A></FONT></P>
+		<P>&nbsp;</P>
+		<P align="right"><FONT face="宋体"> 郝晓波 </FONT>
+		</P>
+		<P align="right"><FONT face="宋体">不行的话用这个：<A href="mailto:haoxiaobo@cpic.net.cn">haoxiaobo@cpic.net.cn</A></FONT></P>
+		<P align="right"><FONT face="宋体">2004-3-24</FONT></P>
+		<P align="right"><FONT face="宋体"></FONT>&nbsp;</P>
+		<P><FONT face="宋体"></FONT>&nbsp;</P>
+	</body>
+</html>

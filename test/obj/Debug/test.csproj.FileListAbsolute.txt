@@ -1,0 +1,5 @@
+E:\hxb\Visual Studio Projects\JAMReader\test\bin\Debug\test.exe
+E:\hxb\Visual Studio Projects\JAMReader\test\bin\Debug\test.pdb
+E:\hxb\Visual Studio Projects\JAMReader\test\obj\Debug\ResolveAssemblyReference.cache
+E:\hxb\Visual Studio Projects\JAMReader\test\obj\Debug\test.exe
+E:\hxb\Visual Studio Projects\JAMReader\test\obj\Debug\test.pdb

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="JAMReader">
+</Property><Property Name="解决方案文件" Value="E:\hxb\Visual Studio Projects\JAMReader\JAMReader.sln">
+</Property><Property Name="用户选项文件" Value="E:\hxb\Visual Studio Projects\JAMReader\JAMReader.suo">
+</Property><Property Name="Date" Value="2011年4月19日">
+</Property><Property Name="Time" Value="11:43">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="JAMReader.sln" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader.sln">
+</Event><Event ErrorLevel="0" Project="" Source="JAMReader.suo" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader.suo">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\JAMReader.csproj" Description="项目文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader\JAMReader.csproj">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\JAMReader.csproj.user" Description="项目用户文件成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader\JAMReader.csproj.user">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\AssemblyInfo.cs" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\BWRichText.cs" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader\BWRichText.cs">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\BWRtfCoder.cs" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader\BWRtfCoder.cs">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\CDateTime.cs" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader\CDateTime.cs">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\Form1.cs" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader\Form1.cs">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\FrmAout.cs" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader\FrmAout.cs">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\FrmFind.cs" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader\FrmFind.cs">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\FrmRegister.cs" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader\FrmRegister.cs">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\JamMail.cs" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader\JamMail.cs">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\MailArea.cs" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader\MailArea.cs">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\RegMan.cs" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader\RegMan.cs">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\app.config" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader\app.config">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\App.ico" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader\App.ico">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\help.html" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader\help.html">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\BWRichText.resx" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader\BWRichText.resx">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\Form1.resx" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader\Form1.resx">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\FrmAout.resx" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader\FrmAout.resx">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\FrmFind.resx" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader\FrmFind.resx">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\FrmRegister.resx" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\JAMReader\FrmRegister.resx">
+</Event><Event ErrorLevel="1" Project="JAMReader" Source="JAMReader\JAMReader.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\JAMReader.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="JAMReader" Source="JAMReader\JAMReader.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="test" Source="test\test.csproj" Description="项目文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\test\test.csproj">
+</Event><Event ErrorLevel="0" Project="test" Source="test\test.csproj.user" Description="项目用户文件成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\test\test.csproj.user">
+</Event><Event ErrorLevel="0" Project="test" Source="test\AssemblyInfo.cs" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\test\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="test" Source="test\Class1.cs" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\test\Class1.cs">
+</Event><Event ErrorLevel="0" Project="test" Source="test\App.ico" Description="文件已成功备份为 E:\hxb\Visual Studio Projects\JAMReader\Backup\test\App.ico">
+</Event><Event ErrorLevel="1" Project="test" Source="test\test.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="test" Source="test\test.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="test" Source="test\test.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="JAMReader.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="JAMReader.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="JAMReader" Source="JAMReader\app.config" Description="文件已成功转换。所有的 &lt;supportedRuntime&gt; 和 &lt;requiredRuntime&gt; 标记都已移除，以使项目能够用 Visual Studio 2005 生成并运行。">
+</Event><Event ErrorLevel="3" Project="JAMReader" Source="JAMReader\app.config" Description="Converted">
+</Event><Event ErrorLevel="0" Project="test" Source="test\test.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
